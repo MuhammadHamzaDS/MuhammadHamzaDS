@@ -1,16 +1,14 @@
-<!-- =========================
-   Data Science Focused — Animated & Professional README
-   Username: MuhammadHamzaDS
-   ========================= -->
-
-<!-- Animated Hero: Typing + Glitch Banner -->
+<!-- Wavy animated banner -->
 <p align="center">
-  <!-- Typing Intro -->
-  <a href="https://github.com/MuhammadHamzaDS">
-    <img src="https://readme-typing-svg.herokuapp.com?size=36&duration=3500&color=00FF88&center=true&width=900&lines=Hi,+I'm+Muhammad+Hamza;Data+Scientist+in+Making;ML+|+Deep+Learning+|+Data+Engineering" alt="Typing SVG"/>
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFEE,100:0066FF&height=180&section=header&text=Hi%20I'm%20Hamza%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
+<!-- Typing animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00F7FF&center=true&vCenter=true&width=500&lines=Data+Science+Enthusiast;Python+Developer;Machine+Learning+Learner;Future+Data+Scientist" />
+</p>
+
+---
 
 
 
@@ -20,7 +18,7 @@
 - 🎯 *Aspiring Data Scientist* — building ML models & end-to-end data pipelines.  
 - 🧠 Interests: **Supervised Learning, Deep Learning, Time Series, NLP, Feature Engineering, Model Deployment**.  
 - 🔭 Currently: Working on **Student Performance Prediction** & **Multi-Brain Collaborative IDE (FYP)**.  
-- 📫 Reach me: [Email](mailto:YOUR_EMAIL@gmail.com) • [LinkedIn](https://www.linkedin.com/in/MuhammadHamzaDS) • [Portfolio](https://your-portfolio-link.com)
+- 📫 Reach me: [Email][hamzaali709x@gmail.com](mailto:hamzaali709x@gmail.com)  • [LinkedIn][linkedin.com/in/muhammad-hamza-7246b8286](https://www.linkedin.com/in/muhammad-hamza-7246b8286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) • [Portfolio][MuhammadHamzaDS.github.io](https://MuhammadHamzaDS.github.io)  
 
 ---
 
