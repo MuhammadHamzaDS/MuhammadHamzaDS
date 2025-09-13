@@ -38,19 +38,22 @@
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
----
-
-## 🚩 Quick Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadHamzaDS&show_icons=true&theme=tokyonight&hide_border=true" height="170em"/>
-  <img src="https://streak-stats.demolab.com?user=MuhammadHamzaDS&theme=tokyonight&hide_border=true" height="170em"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadHamzaDS&layout=compact&theme=tokyonight&hide_border=true" height="140em"/>
 </p>
 
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadHamzaDS&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadHamzaDS&theme=tokyonight" height="180"/>
+</p>
 ---
+
+## 🌱 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadHamzaDS&theme=react-dark" />
+</p>
 
 ## 🧾 Featured Data Science Projects
 > Click to explore — each project contains notebooks, README and a short demo GIF (if available).
