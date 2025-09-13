@@ -105,3 +105,7 @@
 ---
 
 <p align="center">Made with ❤️ • Data Science | ML | Python</p>
+<!-- Footer Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,100:00FFEE&height=100&section=footer" />
+</p>
