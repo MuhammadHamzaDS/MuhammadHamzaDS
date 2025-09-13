@@ -1,7 +1,8 @@
 <!-- Wavy animated banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFEE,100:0066FF&height=180&section=header&text=Hi%20I'm%20Hamza%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFEE,100:0066FF&height=180&section=header&text=Hi%20I'm%20Muhammad%20Hamza%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
+
 
 <!-- Typing animation -->
 <p align="center">
