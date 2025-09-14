@@ -19,8 +19,6 @@
 - 🎯 *Aspiring Data Scientist* — building ML models & end-to-end data pipelines.  
 - 🧠 Interests: **Supervised Learning, Deep Learning, Time Series, NLP, Feature Engineering, Model Deployment**.  
 - 🔭 Currently: Working on **Student Performance Prediction** & **Multi-Brain Collaborative IDE (FYP)**.  
-- 📫 Reach me: [Email][hamzaali709x@gmail.com](mailto:hamzaali709x@gmail.com)  • [LinkedIn][linkedin.com/in/muhammad-hamza-7246b8286](https://www.linkedin.com/in/muhammad-hamza-7246b8286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) • [Portfolio][MuhammadHamzaDS.github.io](https://MuhammadHamzaDS.github.io)  
-
 ---
 
 ## 🧰 Core Skills (DS Stack)
