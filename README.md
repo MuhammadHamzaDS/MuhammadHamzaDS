@@ -70,18 +70,6 @@
 
 ---
 
-## 📈 Live Demo / Animated Visuals
-<!--
-  If you have GIFs of model results or dashboards, upload them to `assets/` and uncomment below.
-  Example stored at: https://raw.githubusercontent.com/MuhammadHamza2233/MuhammadHamza2233/main/assets/model-demo.gif
--->
-<!--
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MuhammadHamza2233/MuhammadHamza2233/main/assets/model-demo.gif" alt="Model Demo" width="700"/>
-</p>
--->
-
----
 
 ## 🧪 Notebooks & How I Work
 - I use **Jupyter / Colab** for exploration, **Docker** for reproducible environments, and **GitHub Actions** for CI (tests & simple deploys).  
