@@ -27,8 +27,15 @@
 ---
 
 ## 🛠️ Skills
+
+### 🔹 Programming & Data Science
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pandas,numpy,sklearn,sql,git,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,tensorflow&theme=light" />
+</p>
+
+### 🔹 Databases & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=sql,git,vscode&theme=light" />
 </p>
 
 ---
