@@ -100,12 +100,33 @@
 
 ---
 
-## 📞 Contact
-📧 **Email**: [hamzaali709x@gmail.com](mailto:hamzaali709x@gmail.com)  
-🌐 **GitHub**: [github.com/MuhammadHamzaDS](https://github.com/MuhammadHamzaDS)  
-💼 **LinkedIn**: [linkedin.com/in/muhammad-hamza-7246b8286](https://www.linkedin.com/in/muhammad-hamza-7246b8286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-🌍 **Portfolio**: [MuhammadHamzaDS.github.io](https://MuhammadHamzaDS.github.io)  
+## 📞 Contact  
 
+<p align="center">
+  <a href="mailto:hamzaali709x@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=light" width="42" height="42" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/MuhammadHamzaDS" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="42" height="42"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/muhammad-hamza-7246b8286" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="42" height="42"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://MuhammadHamzaDS.github.io" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="Portfolio" width="42" height="42"/>
+  </a>
+</p>
+
+
+
+
+
+
+  </a>
+</p>
 
 ---
 
