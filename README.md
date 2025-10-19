@@ -100,10 +100,11 @@
 
 ---
 
-### 📈 Contribution Graph (Animated)  
+### ⚡ Contribution Levels  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadHamzaDS&bg_color=0D1117&color=00FFFF&line=00C2FF&point=FFFFFF&area=true&hide_border=true&custom_title=🔥+My+GitHub+Contribution+Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadHamzaDS&bg_color=000000&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true&radius=12&custom_title=🔥+My+Energy+Levels+(Contributions)" />
 </p>
+
 
 
 ---
