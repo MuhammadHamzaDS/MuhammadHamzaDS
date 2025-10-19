@@ -105,6 +105,16 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadHamzaDS&bg_color=000000&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true&radius=12&custom_title=🔥+My+Energy+Levels+(Contributions)" />
 </p>
 
+## 🚀 My Projects
+
+---
+
+### 📂 Repositories
+
+- [Python Webcam Scanner (OpenCV)](https://github.com/MuhammadHamzaDS/Python_Webcam_Scanner_Project)
+- [AI Student Performance Predictor](https://github.com/MuhammadHamzaDS/AI_Student_Performance_Predictor)
+- [Expense Tracker App (Flutter)](https://github.com/MuhammadHamzaDS/Expense_Tracker_App)
+- [Pharmacy Management System (Python + SQL Server)](https://github.com/MuhammadHamzaDS/Pharmacy_Management_System)
 
 
 ---
