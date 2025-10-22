@@ -88,7 +88,7 @@
 ### ⚙️ GitHub Analytics & Stats  
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=MuhammadHamzaDS&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C2FF&icon_color=00FFFF" />
-  <img height="170" src="https://streak-stats.demolab.com?user=MuhammadHamzaDS&theme=tokyonight&hide_border=true&background=0D1117&ring=00C2FF&fire=00FFFF&currStreakLabel=FFFFFF" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadHamzaDS&theme=tokyonight" height="180"/>
 </p>
 
 ---
