@@ -88,14 +88,15 @@
 ### ⚙️ GitHub Analytics & Stats  
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=MuhammadHamzaDS&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=MuhammadHamzaDS&show_icons=true&theme=tokyonight"
     height="170"
   />
   <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=MuhammadHamzaDS&theme=tokyonight&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com?user=MuhammadHamzaDS&theme=tokyonight"
     height="170"
   />
 </p>
+
 
 
 ---
@@ -103,11 +104,10 @@
 ### 🧩 Most Used Languages  
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadHamzaDS&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadHamzaDS&layout=compact&theme=tokyonight"
     height="170"
   />
 </p>
-
 
 ---
 
