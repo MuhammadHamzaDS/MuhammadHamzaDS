@@ -202,7 +202,7 @@ A Machine Learning project that analyzes student information and predicts academ
   />
 </p>
 
-<a href="https://github.com/MuhammadHamzaDS/student-performance-predictio">
+<a href="https://github.com/MuhammadHamzaDS/student-performance-prediction">
   <img
     src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"
     alt="View Repository"
