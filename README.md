@@ -527,7 +527,13 @@ A management system for handling pharmacy inventory, records and business operat
 </p>
 
 ---
+## 🔥 GitHub Streak
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MuhammadHamzaDS&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
 <!-- ========================= DATA SCIENCE WORKFLOW ========================= -->
 
 ## 🎯 My Data Science Workflow
