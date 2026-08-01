@@ -525,17 +525,7 @@ A management system for handling pharmacy inventory, records and business operat
     alt="Muhammad Hamza Contribution Graph"
   />
 </p>
-
----
- <h2 align="center">🔥 GitHub Streak</h2>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=MuhammadHamzaDS&theme=tokyonight&hide_border=true"
-    alt="Muhammad Hamza's GitHub Streak"
-  />
-</p>
-
+ 
 ---
 <!-- ========================= DATA SCIENCE WORKFLOW ========================= -->
 
