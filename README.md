@@ -527,10 +527,13 @@ A management system for handling pharmacy inventory, records and business operat
 </p>
 
 ---
-## 🔥 GitHub Streak
+ <h2 align="center">🔥 GitHub Streak</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MuhammadHamzaDS&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img
+    src="https://streak-stats.demolab.com/?user=MuhammadHamzaDS&theme=tokyonight&hide_border=true"
+    alt="Muhammad Hamza's GitHub Streak"
+  />
 </p>
 
 ---
